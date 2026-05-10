@@ -1,0 +1,8 @@
+.DS_Store
+*.bkp
+.$*.bkp
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
